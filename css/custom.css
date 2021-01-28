@@ -75,8 +75,9 @@
 	background-position:50% 50%;
 }
 .bg2 {
-	background-image:url(../images/3000x2000.png); 
-	background-position:50% 50%;
+	background-image:url(../images/bg2.jpg); 
+	background-position: center;
+	background-size: cover;
 }
 
 .breadcrumbs_1 {
